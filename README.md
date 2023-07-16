@@ -10,7 +10,7 @@ The Bot Collects Guild Member Activity Like Joining Leaving For Welcome System
 
 # Owner and Data Controller
 
-Owner contact email: [Contact](https://discord.gg/96kEy8FJ6v)
+Owner contac: [Contact](https://discord.gg/96kEy8FJ6v)
 
 We Don't Ask You Any Kind Of Thing Which Is Related To Your Security
 
